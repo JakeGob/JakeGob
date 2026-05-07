@@ -18,6 +18,7 @@ I'm comfortable across the stack and enjoy the full cycle: building, testing, an
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
@@ -36,8 +37,8 @@ Real-time people detection system integrating a YOLO model with a live web dashb
 **Stack:** Python · Ultralytics YOLO · HTML/CSS/JS · SQLite
 
 ### 🖥️ Home Lab
-Self-hosted network setup running Pi-hole, Nginx Proxy Manager, a Cloudflare tunnel, and Twingate on a Raspberry Pi 5.  
-**Stack:** Linux · Docker · Raspberry Pi
+Raspberry Pi 5 and an HP Elite Mini running Ubuntu Server, with Pi-hole, Nginx Proxy Manager, a Cloudflare tunnel, and Twingate.  
+**Stack:** Linux · Docker · Networking
 
 ## Reach me
 
