@@ -4,7 +4,7 @@ CS student at Dakota State University · Software Design Student @ Daktronics ·
 
 ## About
 
-I'm a software engineering student who likes building things that actually work. Full-stack web apps, real-time systems, whatever the problem calls for. Currently working at Daktronics doing Salesforce feature development and C# code. I also run a home lab for fun and to keep my networking knowledge from going stale.
+I'm a computer science student who likes building things that actually work. Full-stack web apps, real-time systems, whatever the problem calls for. Currently working at Daktronics doing Salesforce feature development and C# code. I also run a home lab for fun and to keep my networking knowledge from going stale.
 
 I'm comfortable across the stack and enjoy the full cycle: building, testing, and figuring out what broke.
 
